@@ -1,2 +1,2 @@
-# cusroa_acelerado_python
+# curso_acelerado_python
 <hl>Bienvenidos<hl>
